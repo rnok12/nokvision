@@ -1,0 +1,186 @@
+{
+    "status": 200,
+    "description": "OK.",
+    "fieldsResulset": [
+                               "NOMBRE",
+                               "ESTADO__SLOT",
+                               "ESTADO_PUERTO",
+                               "TEMP_ONU",  
+                               "TEMP_PORT", 
+                               "ONT_TX",          
+                               "ONT_RX",         
+                               "OLT_TX",           
+                               "OLT_RX",           
+                               "LOFI",  
+                               "UPFRAME",      
+                               "BIP_UP",           
+                               "BIP_DW",          
+                               "HEC_UP",          
+                               "LAST_UPTIME",             
+                               "LAST_DOWNTIME",     
+                               "BIAS_CURRENT",           
+                               "VOLTAGE",       
+                               "TEMP_SLOT",  
+                               "VOLTAGE_OLT",            
+                               "BIAS_CURRENT_OLT",
+                               "FIRMWARE",   
+                               "PERFIL_SERVICIO",       
+                               "MODEM",         
+                               "DISTANCIA",
+                               "SERIAL_NUMBER",
+                               "CAUSE_DOWNTIME",  
+                               "ESTADO_ONU"
+    ],
+    "dataElements": {
+        "LOFI": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "UPFRAME": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "BIP_UP": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "BIP_DW": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "HEC_UP": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "LAST_UPTIME": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "LAST_DOWNTIME": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "BIAS_CURRENT": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "VOLTAGE": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "NOMBRE": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "ESTADO__SLOT": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "ESTADO_PUERTO": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "TEMP_PORT": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "OLT_TX": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "OLT_RX": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "TEMP_SLOT": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "VOLTAGE_OLT": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "BIAS_CURRENT_OLT": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+       "SERIAL_NUMBER": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "CAUSE_DOWNTIME": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "ESTADO_ONU": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "FIRMWARE": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "2.72"
+            }
+        ],
+        "PERFIL_SERVICIO": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": ""
+            }
+        ],
+        "MODEM": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "-20.01"
+            }
+        ],
+        "DISTANCIA": [
+            {
+                "date": "2020-08-01 00:00:00",
+                "value": "0"
+            }
+        ]                     
+    }
+}
