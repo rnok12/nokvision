@@ -1,5 +1,5 @@
 {
-"posts": [
+"posts": 
 		{
 			"status": 200,
 			"description": "OK.",
@@ -186,5 +186,5 @@
 				]                     
 			}
 		}
-	]
+	
 }
